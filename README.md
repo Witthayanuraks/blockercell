@@ -96,7 +96,7 @@ MIT © [Aroes Noer Cahya](https://github.com/Witthayanuraks)
 
 ## ❓ Need Help?  
 - [Open an Issue](https://github.com/Witthayanuraks/blockercell/issues)  
-- Reach out: **periodecode@gmail.co,**   
+- Reach out: **periodecode@gmail.com**   
 
 ---
 
