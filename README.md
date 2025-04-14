@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 [![GitHub Stars](https://img.shields.io/github/stars/Witthayanuraks/blockercell?style=social)](https://github.com/Witthayanuraks/blockercell)  
 
-Tired of spam calls and unwanted messages? **BlockerCell** is your Python-powered shield against telemarketers, scammers, and annoying contacts. Block calls, filter SMS, and take back control of your phone!
+Tired of spam calls and unwanted messages? **BlockerCell** is your Python-powered shield against telemarketers, scammers, and annoying contacts. Block calls, filter SMS, and take back control of your phone! <br />
 スパム電話や迷惑メッセージにうんざりしていませんか？**BlockerCell**は、テレマーケティング、詐欺師、迷惑な連絡先に対するPythonパワーの盾です。電話をブロックし、SMSをフィルタリングし、携帯電話のコントロールを取り戻しましょう！
 
 ---
