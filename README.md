@@ -13,7 +13,7 @@ Tired of spam calls and unwanted messages? **BlockerCell** is your Python-powere
 
 ---
 
-## ✨ Features  
+## ✨ Features  [ COMMING SOON AS SOME FEATURE ]
 
 ✅ **Call Blocking** – Silence specific numbers or unknown callers.  
 ✅ **SMS Filtering** – Auto-detect and block spam messages using keywords.  
